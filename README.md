@@ -7,7 +7,7 @@ https://15.ai/contribute
 
 ## Prerequisites
 
-This is only supported on Microsoft Windows platforms and only requires at least modern (3.x.x) version of python to be 
+This is only supported on Microsoft Windows platforms and only requires a modern (3.x.x minimum) version of python to be 
 installed. 
 
 I suggest installing the linked version, though anything 3.x.x should work
