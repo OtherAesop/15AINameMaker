@@ -30,6 +30,14 @@ You may also run this in command line by `cd`ing into this projects directory an
 
 * `python make_audio_path_file.py`
 
+Your output should look something like this inside the report generated.
+
+```
+audio_files/mus1.wav|
+audio_files/mus2.mp4|
+audio_files/mus3.mp3|
+```
+
 ## License
 
 This program is licensed to you under the GNU-GPL (https://www.gnu.org/licenses/gpl-3.0.en.html) with the
