@@ -20,7 +20,7 @@ in the advanced install options**
 
 Download this project however you like and follow these steps
 
-1) Delete the file named `delete_me.wav`. This has to be here so I can commit a directory with the right named folder. 
+1) Delete the file named `delete_me.wav`. This has to be here so I can commit a directory with the correctly named folder. 
    It's a fake wav file, open it in notepad for a surprise!
 1) Copy your music files into the `audio_files` directory
 2) Double click on the main script - `make_audio_path_file.py`
@@ -29,3 +29,8 @@ Download this project however you like and follow these steps
 You may also run this in command line by `cd`ing into this projects directory and running
 
 * `python make_audio_path_file.py`
+
+## License
+
+This program is licensed to you under the GNU-GPL (https://www.gnu.org/licenses/gpl-3.0.en.html) with the
+stipulation that it is not used for evil purposes.
