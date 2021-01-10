@@ -20,7 +20,7 @@ in the advanced install options**
 
 Download this project however you like and follow these steps
 
-1) Delete the file named `delete_me.wav` in the `audio_files` directory. This has to be here so I can commit a correctly named directory (audio_files.) 
+1) Delete the file named `delete_me.wav` in the `audio_files` directory. This has to be here so I can commit a correctly named directory. 
    It's a fake wav file, open it in notepad for a surprise!
 1) Copy your music files into the `audio_files` directory
 2) Double click on the main script - `make_audio_path_file.py`
